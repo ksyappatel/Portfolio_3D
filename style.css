@@ -167,6 +167,26 @@
     display: block;
 }
 
+/* Light Theme Image Background */
+.light-bg {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-image: url("Purple/Gemini_Generated_Image_8fc1d38fc1d38fc1.png");
+    background-size: cover;
+    background-position: center;
+    z-index: -2;
+    pointer-events: none;
+    opacity: 0.2; /* Light watermark effect */
+}
+
+[data-theme="light"] .light-bg {
+    display: block;
+}
+
 /* Default Dark Image Background */
 .dark-bg {
     display: block; /* Visible by default (Dark mode) */
