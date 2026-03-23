@@ -155,7 +155,7 @@
     left: 0;
     width: 100vw;
     height: 100vh;
-    background-image: url("Purple/theme/Cosmic Sunshine (Light).png");
+    background-image: url("Cosmic Sunshine (Light).png");
     background-size: cover;
     background-position: center;
     z-index: -2;
@@ -175,7 +175,7 @@
     left: 0;
     width: 100vw;
     height: 100vh;
-    background-image: url("Purple/Gemini_Generated_Image_8fc1d38fc1d38fc1.png");
+    background-image: url("Gemini_Generated_Image_8fc1d38fc1d38fc1.png");
     background-size: cover;
     background-position: center;
     z-index: -2;
@@ -195,7 +195,7 @@
     left: 0;
     width: 100vw;
     height: 100vh;
-    background-image: url("Purple/theme/Cosmic Purple AI.png");
+    background-image: url("Cosmic Purple AI.png");
     background-size: cover;
     background-position: center;
     z-index: -3; /* Behinds the main background elements */
